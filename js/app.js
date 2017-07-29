@@ -1,6 +1,5 @@
 var map;
 var defaultIcon;
-var highlightedIcon;
 var markers = [];
 var MosqueApi;
 var mosques = [];
